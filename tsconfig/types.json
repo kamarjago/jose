@@ -1,4 +1,4 @@
-.https://jago22.cloudflareaccess.com/cdn-cgi/access/certs{
+
   "extends": "../tsconfig.json",
   "compilerOptions": {
     "target": "ESNext",
